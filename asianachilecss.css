@@ -222,6 +222,18 @@ header a:hover{
     font-size: 9vw;
 }
 
+#AplicaYa{
+
+    background-image: linear-gradient(
+    0deg,
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+)
+,url("media/mujer-negocios-trabajo.jpg");
+background-size: cover;
+background-position: center center;
+}
+
 #AplicaYa button{
     font-size: 1.75em;
 }
